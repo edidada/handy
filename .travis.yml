@@ -2,7 +2,6 @@ sudo: required
 
 language: cpp
 compiler: g++
-
 matrix:
     include:
         # Job1: This is the job of building project in linux os.
